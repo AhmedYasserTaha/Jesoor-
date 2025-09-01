@@ -18,7 +18,8 @@ The app connects **donors, charities, and beneficiaries** in one trusted platfor
 ---
 
 ## 📂 Project Structure
-<img width="381" height="619" alt="image" src="https://github.com/user-attachments/assets/5ee8816d-9705-458c-848c-301563b9b369" />
+<img width="318" height="590" alt="image" src="https://github.com/user-attachments/assets/fe5edeb3-19db-4b17-b67b-473d9e4ae4a9" />
+
 
 ## 🛠️ Tech Stack
 Flutter (Dart) for cross-platform development
@@ -30,6 +31,7 @@ RESTful APIs for backend communication
 Clean architecture (Controller – Data – Repository – View)
 
 ## 📸 Screenshots
+![unnamed22](https://github.com/user-attachments/assets/443dc47c-3b61-477b-8b7c-8a52be18c4c0)
 
 ![unnamed (3)](https://github.com/user-attachments/assets/ac59d7cf-86f0-4578-a4fd-5b3fb7891dfc)
 ![unnamed (2)](https://github.com/user-attachments/assets/98bd4934-1ee5-458d-ae73-29ba0d80bfae)
